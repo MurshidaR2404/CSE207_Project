@@ -3,7 +3,7 @@
 
 enum designation{
     LECTURER = 0,
-    SENIOR_LECTURER,
+    SENIOR_LECTURER = 0,
     ASSISTANT_PROFESSOR,
     PROFESSOR,
 };
